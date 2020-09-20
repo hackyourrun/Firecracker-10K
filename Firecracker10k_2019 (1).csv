@@ -1,0 +1,456 @@
+Place ,Name , Bib ,Time ,Pace ,Home ,Group ,Group Finish
+1,Tyler Muse,118,00:32:30,05:14:00,US,Male 23-26,1
+2,Jeremy Ardanuy,135,00:33:15,05:22:00,"Baltimore, MD",Male 23-26,2
+3,Dave Berdan,1,00:33:47,05:27:00,"Owings Mills, MD",Male 35-38,1
+4,Jim Heilman,717,00:34:18,05:32:00,"Lutherville Timonium, MD",Male 23-26,3
+5,Patrick Hanley,145,00:34:42,05:35:00,US,Male 23-26,4
+6,Dustin Meeker,969,00:35:11,05:40:00,"Baltimore, MD",Male 35-38,2
+7,Adam Sachs,865,00:35:27,05:43:00,"Columbia, MD",Male 23-26,5
+8,Ryan Stasiowski,981,00:35:56,05:47:00,"Hanover, PA",Male 27-30,1
+9,Gavin Gibson,670,00:36:09,05:49:00,"Newark, DE",Male 19-22,1
+10,Kevin Ford,649,00:36:09,05:49:00,"Baltimore, MD",Male 31-34,1
+11,Bennett Umhau,77,00:36:31,05:53:00,US,Male 27-30,2
+12,Tristam Thomas,982,00:36:41,05:55:00,"Baltimore, MD",Male 31-34,2
+13,Jason Tripp,911,00:36:43,05:55:00,"Ellicott City, MD",Male 47-50,1
+14,Robby Creese,953,00:36:59,05:57:00,"State College, PA",Male 23-26,6
+15,Ryan Bull,304,00:37:01,05:58:00,"Laurel, MD",Male 27-30,3
+16,William Tripp,912,00:37:23,06:01:00,"Ellicott City, MD",Male 18 and under,1
+17,Brendan Lilley,967,00:37:25,06:02:00,"Baltimore, MD",Male 43-46,1
+18,Mark Landree,773,00:37:29,06:02:00,"Catonsville, MD",Male 47-50,2
+19,scott baker,140,00:37:36,06:03:00,"Towson, MD",Male 23-26,7
+20,Jack Roseboom,862,00:37:37,06:04:00,"Catonsville, MD",Male 18 and under,2
+21,Hannah Cocchiaro,488,00:37:47,06:05:00,"Columbia, MD",Female 27-30,1
+22,Ty Stump,163,00:37:58,06:07:00,"Maryland, US",Male 27-30,4
+23,connor plagens,975,00:38:10,06:09:00,"South Lyon, MI",Male 23-26,8
+24,JAMES BLACKWOOD,196,00:38:50,06:15:00,"Columbia, MD",Male 31-34,3
+25,Maura Linde,789,00:39:11,06:19:00,"Sykesville, MD",Female 23-26,1
+26,Jeff Burger,117,00:39:19,06:20:00,US,Male 43-46,2
+27,Steve Monnier,83,00:39:22,06:21:00,US,Male 39-42,1
+28,Jackie Range,178,00:39:22,06:21:00,US,Female 35-38,1
+29,Brendan Okane,974,00:39:53,06:25:00,"Baltimore, MD",Male 31-34,4
+30,Arriaga Lude,25,00:39:55,06:26:00,US,Male 27-30,5
+31,BRIAN MURPHY,817,00:40:03,06:27:00,"Silver Spring, MD",Male 35-38,3
+32,David Phipps,830,00:40:09,06:28:00,"Severna Park, MD",Male 55-58,1
+33,Caroline Bauer,943,00:40:23,06:30:00,"Hampstead, MD",Female 35-38,2
+34,Aaron Ellison,569,00:40:36,06:32:00,"Ellicott City, MD",Male 43-46,3
+35,Clark Ridge,181,00:40:46,06:34:00,US,Male 39-42,2
+36,Joe Ward,918,00:41:18,06:39:00,"Annapolis, MD",Male 39-42,3
+37,Jerry Henderson,116,00:41:21,06:40:00,US,Male 51-54,1
+38,Maurice Pointer,989,00:41:28,06:41:00,US,Male 63-66,1
+39,Jon Ober,973,00:41:34,06:42:00,"Catonsville, MD",Male 31-34,5
+40,Peter Ward,919,00:42:04,06:47:00,"Clarksville, MD",Male 43-46,4
+41,Richard Reinhardt,854,00:42:14,06:48:00,"Columbia, MD",Male 39-42,4
+42,Jerrod Abel,938,00:42:15,06:48:00,"Hebron, OH",Male 27-30,6
+43,Zach Valentine,184,00:42:25,06:50:00,US,Male 35-38,4
+44,Brian Sweeney,174,00:42:25,06:50:00,US,Male 43-46,5
+45,Charles Powell II,997,00:42:29,06:51:00,US,Male 51-54,2
+46,Megan DiGregorio,2,00:42:29,06:51:00,"White Marsh, MD",Female 31-34,1
+47,Suzanne Jakes,964,00:42:37,06:52:00,"White Hall, MD",Female 31-34,2
+48,Steve Coleman,149,00:42:54,06:55:00,US,Male 43-46,6
+49,Shane Hart,703,00:42:59,06:55:00,"Baltimore, MD",Male 27-30,7
+50,Conor Hurd,734,00:43:39,07:02:00,"Halethorpe, MD",Male 19-22,2
+51,Melanie Rebechi,976,00:43:41,07:02:00,"Baltimore, MD",Female 27-30,2
+52,Jeff Farr,593,00:43:48,07:03:00,"Severn, MD",Male 43-46,7
+53,Dave Berardi,138,00:44:08,07:07:00,US,Male 55-58,2
+54,Denise Knickman,9,00:44:10,07:07:00,US,Female 51-54,1
+55,GREGG FORD,628,00:44:26,07:09:00,"Baltimore, MD",Male 47-50,3
+56,Kate Deanehan,183,00:44:53,07:14:00,US,Female 39-42,1
+57,Dennis Albright,120,00:44:56,07:14:00,"Ellicott City, MD",Male 47-50,4
+58,Christopher Baker,136,00:44:59,07:15:00,"Baltimore, MD",Male 35-38,5
+59,Caleb Dixon,552,00:45:12,07:17:00,"Owings Mills, MD",Male 18 and under,3
+60,Haley Kappey,746,00:45:26,07:19:00,"Ellicott City, MD",Female 19-22,1
+61,Joseph Kurek,146,00:45:34,07:20:00,US,Male 18 and under,4
+62,David McGrath,805,00:45:48,07:23:00,"Mount Hope, OH",Male 43-46,8
+63,Casey Murray,14,00:45:54,07:24:00,US,Female 23-26,2
+64,COLIN SMITH,888,00:45:59,07:24:00,"Catonsville, MD",Male 23-26,9
+65,Maegan Steil,897,00:46:01,07:25:00,"Halethorpe, MD",Female 27-30,3
+66,Marc Hermstein,729,00:46:05,07:25:00,"Ellicott City, MD",Male 51-54,3
+67,David Mann,800,00:46:09,07:26:00,"Ellicott City, MD",Male 51-54,4
+68,Martin Jauqet,167,00:46:12,07:27:00,US,Male 18 and under,5
+69,Samuel Besse,195,00:46:25,07:29:00,"Halethorpe, MD",Male 19-22,3
+70,Megan McNew,968,00:46:40,07:31:00,"Baltimore, MD",Female 39-42,2
+71,Justine DiGregorio,954,00:46:50,07:33:00,"White Marsh, MD",Female 27-30,4
+72,Becky Rhodes,856,00:47:00,07:34:00,"Woodbine, MD",Female 39-42,3
+73,Kevin Brittingham,261,00:47:11,07:36:00,"Woodstock, MD",Male 47-50,5
+74,John Stanmore,895,00:47:18,07:37:00,"Baltimore, MD",Male 55-58,3
+75,Frank Kelly II,753,00:47:24,07:38:00,"Catonsville, MD",Male 39-42,5
+76,Bill Kelvey,758,00:47:26,07:39:00,"Westminster, MD",Male 59-62,1
+77,Deb Hicks,87,00:47:32,07:39:00,US,Female 43-46,1
+78,Michael Feinberg,125,00:47:33,07:40:00,US,Male 55-58,4
+79,Todd Pearsall,828,00:47:47,07:42:00,"Catonsville, MD",Male 47-50,6
+80,Tyler Gideon,940,00:47:50,07:42:00,"Cincinnati, OH",Male 27-30,8
+81,Brian Daugherty,499,00:47:57,07:43:00,"Edgewater, MD",Male 59-62,2
+82,Ann Fraker,653,00:48:05,07:45:00,"Stevenson, MD",Female 51-54,2
+83,Mark Smith,890,00:48:08,07:45:00,"Catonsville, MD",Male 59-62,3
+84,Richard Dix,996,00:48:24,07:48:00,US,Male 31-34,6
+85,Christopher Colclough,490,00:48:29,07:49:00,"Halethorpe, MD",Male 27-30,9
+86,Timothy Huynh,735,00:48:32,07:49:00,"Catonsville, MD",Male 19-22,4
+87,Evan Quinn,845,00:48:39,07:50:00,"Elkridge, MD",Male 18 and under,6
+88,Joseph Stein,121,00:48:49,07:52:00,US,Male 18 and under,7
+89,Patricia Stein,899,00:48:58,07:53:00,"Lutherville Timonium, MD",Female 19-22,2
+90,Jeff Newstead,822,00:49:03,07:54:00,"Catonsville, MD",Male 39-42,6
+91,Mike Creasy,119,00:49:05,07:54:00,US,Male 47-50,7
+92,Jason Miller,142,00:49:10,07:55:00,US,Male 39-42,7
+93,Emily Magoon,796,00:49:15,07:56:00,"Ellicott City, MD",Female 19-22,3
+94,Ryan Snyder,10,00:49:20,07:57:00,US,Male 39-42,8
+95,Christina Saffran,189,00:49:23,07:57:00,US,Female 39-42,4
+96,Casey Jackson,736,00:49:27,07:58:00,"Halethorpe, MD",Male 39-42,9
+97,Sean Kromeke,766,00:49:36,07:59:00,"Halethorpe, MD",Male 39-42,10
+98,Tricia Cecil,482,00:49:45,08:01:00,"Elkridge, MD",Female 35-38,3
+99,Glenn Smith,889,00:49:49,08:01:00,"Parkville, MD",Male 39-42,11
+100,Matthew Fitzsimmons,619,00:49:52,08:02:00,"Catonsville, MD",Male 39-42,12
+101,Chris Chattin,483,00:50:06,08:04:00,"Columbia, MD",Male 55-58,5
+102,SHELLI BEARD,161,00:50:07,08:04:00,"Gaithersburg, MD",Female 47-50,1
+103,Karin Wagner Walker,4,00:50:11,08:05:00,"Baldwin, MD",Female 55-58,1
+104,Tyler Bryant,19,00:50:17,08:06:00,US,Male 23-26,10
+105,David Kelly,749,00:50:19,08:06:00,"Catonsville, MD",Male 35-38,6
+106,Michael Caperoon Jr,115,00:50:24,08:07:00,US,Male 35-38,7
+107,ROBERT SMITH,892,00:50:33,08:09:00,"Baltimore, MD",Male 59-62,4
+108,Norah Storey MacPhee,903,00:50:40,08:10:00,"Columbia, MD",Female 47-50,2
+109,JOHN CRISCUOLI,497,00:50:44,08:10:00,"Columbia, MD",Male 23-26,11
+110,Jon Schraft,980,00:50:52,08:12:00,"Glen Burnie, MD",Male 39-42,13
+111,Jonathan Edmondson,955,00:51:08,08:14:00,"Upperco, MD",Male 35-38,8
+112,Jessica McDivitt,158,00:51:10,08:14:00,US,Female 18 and under,1
+113,Sandi Simon,883,00:51:11,08:15:00,"Perry Hall, MD",Female 51-54,3
+114,Megan Ressler,855,00:51:22,08:16:00,"Hanover, MD",Female 43-46,2
+115,Bruce Wentworth,922,00:51:29,08:17:00,"Westminster, MD",Male 67-70,1
+116,Traci Lijewski,6,00:51:31,08:18:00,US,Female 31-34,3
+117,Ron Eshleman,571,00:51:31,08:18:00,"Catonsville, MD",Male 47-50,8
+118,Mary Snyder,11,00:51:35,08:19:00,US,Female 43-46,3
+119,Brady Crone,23,00:51:44,08:20:00,US,Female 43-46,4
+120,Mark Lash,774,00:51:45,08:20:00,"Ellicott City, MD",Male 55-58,6
+121,Stacey Shea,879,00:51:51,08:21:00,"Baltimore, MD",Female 55-58,2
+122,Mary Baker,139,00:51:54,08:22:00,"Sykesville, MD",Female 35-38,4
+123,Krista Harms,701,00:52:01,08:23:00,"Albion, IL",Female 51-54,4
+124,Jacob Mishook,970,00:52:01,08:23:00,"Catonsville, MD",Male 39-42,14
+125,John Schlehr,867,00:52:05,08:23:00,"Ellicott City, MD",Male 31-34,7
+126,Emily Abell,947,00:52:18,08:26:00,"Lutherville Timonium, MD",Female 23-26,3
+127,Thomas Krispin,764,00:52:25,08:26:00,"Catonsville, MD",Male 39-42,15
+128,Paul Russell,864,00:52:27,08:27:00,"Sykesville, MD",Male 55-58,7
+129,Tammy Liu,790,00:52:39,08:29:00,"Ellicott City, MD",Female 51-54,5
+130,Kevin Hermstein,941,00:52:39,08:29:00,"Ellicott City, MD",Male 18 and under,8
+131,Alex Bardakh,148,00:53:10,08:34:00,"Halethorpe, MD",Male 31-34,8
+132,Olivia Kelly,751,00:53:11,08:34:00,"Ellicott City, MD",Female 31-34,4
+133,Arnav Gowda,681,00:53:13,08:34:00,"Ellicott City, MD",Male 18 and under,9
+134,Carrie Rossbach,179,00:53:22,08:36:00,US,Female 31-34,5
+135,James Hale,698,00:53:23,08:36:00,"Catonsville, MD",Male 39-42,16
+136,Jake Hayden,707,00:53:26,08:36:00,"Ellicott City, MD",Male 18 and under,10
+137,Charles Brenton,216,00:53:32,08:37:00,"Baltimore, MD",Male 67-70,2
+138,Scott Mattingly,801,00:53:32,08:37:00,"Catonsville, MD",Male 59-62,5
+139,Lindsay Franz,667,00:53:45,08:39:00,"Halethorpe, MD",Female 27-30,5
+140,Kevin Weisenborn,984,00:53:51,08:40:00,"Halethorpe, MD",Male 35-38,9
+141,April Cortina,496,00:53:56,08:41:00,"Catonsville, MD",Female 31-34,6
+142,Hazel Montgomery-Walsh,971,00:54:11,08:44:00,"Catonsville, MD",Female 18 and under,2
+143,Peter Jauqet,169,00:54:36,08:48:00,US,Male 18 and under,11
+144,Robert Slopek,884,00:54:43,08:49:00,"Sykesville, MD",Male 39-42,17
+145,Nicholas Jankowski,737,00:54:48,08:50:00,"Catonsville, MD",Male 39-42,18
+146,Denise Frech,668,00:54:52,08:50:00,"Halethorpe, MD",Female 55-58,3
+147,Yihua Zheng,986,00:54:53,08:50:00,"Laurel, MD",Female 47-50,3
+148,Robert Quinn,846,00:54:54,08:51:00,"Elkridge, MD",Male 47-50,9
+149,Robert Angermaier,127,00:55:01,08:52:00,"Halethorpe, MD",Male 35-38,10
+150,Eva White,802,00:55:02,08:52:00,"Catonsville, MD",Female 18 and under,3
+151,Sondra Ailinger,110,00:55:04,08:52:00,"Laurel, MD",Female 47-50,4
+152,Steven Haga,697,00:55:08,08:53:00,"Elkridge, MD",Male 27-30,10
+153,Hallie Brokowsky,279,00:55:11,08:53:00,"Ellicott City, MD",Female 43-46,5
+154,Marc Burger,393,00:55:15,08:54:00,"Columbia, MD",Male 43-46,9
+155,Ashley Seidl,871,00:55:39,08:58:00,"Ellicott City, MD",Female 27-30,6
+156,William Lieberman,788,00:55:49,08:59:00,"Ellicott City, MD",Male 59-62,6
+157,Leah Williams,151,00:55:52,09:00:00,US,Female 35-38,5
+158,Richard Burrowes,405,00:55:54,09:00:00,"Pikesville, MD",Male 43-46,10
+159,Bryan Prince,840,00:56:05,09:02:00,"Catonsville, MD",Male 18 and under,12
+160,Riley Toth,910,00:56:06,09:02:00,"Millersville, MD",Male 18 and under,13
+161,Veronica Stewart,901,00:56:16,09:04:00,"Reisterstown, MD",Female 27-30,7
+162,Christian Henderson,728,00:56:17,09:04:00,"Halethorpe, MD",Male 35-38,11
+163,Joe Ambrose,126,00:56:19,09:04:00,"Elkridge, MD",Male 27-30,11
+164,Ethan Barrett,993,00:56:20,09:04:00,US,Male 27-30,12
+165,Casey Holmes,962,00:56:30,09:06:00,"Las Vegas, NV",Male 27-30,13
+166,Michele McFarland,12,00:56:36,09:07:00,US,Female 47-50,5
+167,Natalie Burrowes,396,00:56:53,09:10:00,"Pikesville, MD",Female 39-42,5
+168,Tim Henkel,8,00:57:02,09:11:00,US,Male 27-30,14
+169,Jeff Lawson,780,00:57:04,09:11:00,"Sykesville, MD",Male 39-42,19
+170,Danilo Piana,831,00:57:05,09:12:00,"Baltimore, MD",Male 35-38,12
+171,Pete Mulligan,972,00:57:11,09:13:00,"Baltimore, MD",Male 51-54,5
+172,Nelda Clelland,88,00:57:14,09:13:00,US,Female 59-62,1
+173,Brent Smith,886,00:57:18,09:14:00,"Halethorpe, MD",Male 35-38,13
+174,Kari Whitmer,926,00:57:23,09:14:00,"Millersville, MD",Female 39-42,6
+175,Bruce Chambliss,147,00:57:28,09:15:00,US,Male 35-38,14
+176,Joshua Formwalt,652,00:57:34,09:16:00,"Catonsville, MD",Male 31-34,9
+177,Matt Dell,22,00:57:35,09:17:00,US,Male 43-46,11
+178,Danielle Crump,498,00:57:46,09:18:00,"Ellicott City, MD",Female 47-50,6
+179,Eric Wieczorkowski,28,00:57:47,09:18:00,US,Male 31-34,10
+180,David Mitchell,814,00:57:56,09:20:00,"Lovettsville, VA",Male 47-50,10
+181,Lorraine Giangrandi,669,00:58:19,09:23:00,"Baltimore, MD",Female 43-46,6
+182,Rebecca Prince,841,00:58:42,09:27:00,"Catonsville, MD",Female 51-54,6
+183,Lila Nazarian,31,00:58:47,09:28:00,US,Female 19-22,4
+184,David Klein,763,00:58:48,09:28:00,"Parkville, MD",Male 31-34,11
+185,Doug Nazarian,29,00:58:49,09:28:00,US,Male 51-54,6
+186,Mary Beth Green,960,00:58:52,09:29:00,"Elkridge, MD",Female 51-54,7
+187,Robert Mamula,799,00:58:53,09:29:00,"Severn, MD",Male 47-50,11
+188,Deborah Cohen,489,00:59:03,09:31:00,"Ellicott City, MD",Female 59-62,2
+189,Brandon Snyder,894,00:59:05,09:31:00,"Glen Burnie, MD",Male 35-38,15
+190,Buddy Weber,921,00:59:05,09:31:00,"Parkville, MD",Male 55-58,8
+191,Greg Goucher,176,00:59:08,09:31:00,US,Male 59-62,7
+192,Julie Borsh,200,00:59:14,09:32:00,"Elkridge, MD",Female 35-38,6
+193,James Audy,949,00:59:23,09:34:00,"Catonsville, MD",Male 31-34,12
+194,Margaret Waters,983,00:59:23,09:34:00,"Catonsville, MD",Female 23-26,4
+195,Jennifer Murphy,818,00:59:26,09:34:00,"Silver Spring, MD",Female 35-38,7
+196,Ronnie Wong,932,00:59:33,09:35:00,"Catonsville, MD",Male 71+,1
+197,Stephen Walsh,916,00:59:33,09:36:00,"Savage, MD",Male 31-34,13
+198,Cori Maley,798,00:59:33,09:36:00,"Savage, MD",Female 31-34,7
+199,Douglas Toth,909,00:59:37,09:36:00,"Millersville, MD",Male 47-50,12
+200,Laura Sbarra,979,00:59:42,09:37:00,"Baltimore, MD",Female 27-30,8
+201,Elizabeth Robucci,859,00:59:45,09:37:00,"Halethorpe, MD",Female 39-42,7
+202,Barry Scheitlin,157,00:59:50,09:38:00,US,Male 63-66,2
+203,Brent Scheitlin,156,00:59:52,09:38:00,US,Male 35-38,16
+204,Kelli Berg,192,00:59:52,09:39:00,"Woodstock, MD",Female 43-46,7
+205,Lowell Wilson,928,00:59:55,09:39:00,"Ellicott City, MD",Male 59-62,8
+206,Tyler Hayden,150,01:00:09,09:41:00,US,Male 18 and under,14
+207,Amy Weatherholtz,920,01:00:12,09:42:00,"Columbia, MD",Female 31-34,8
+208,Daniel Wysling,985,01:00:14,09:42:00,"Catonsville, MD",Male 39-42,20
+209,Susan Kim,760,01:00:30,09:45:00,"Laurel, MD",Female 51-54,8
+210,Morris Spekterman,35,01:00:34,09:45:00,US,Male 23-26,12
+211,Erin Coolahan,494,01:00:40,09:46:00,"Parkville, MD",Female 31-34,9
+212,Amy Miktus,811,01:00:41,09:46:00,"Littlestown, PA",Female 47-50,7
+213,Joe Dougherty,561,01:00:48,09:47:00,"Rockville, MD",Male 31-34,14
+214,Stephen Geisler,32,01:00:52,09:48:00,US,Male 18 and under,15
+215,Brian Hoff,732,01:01:02,09:50:00,"Westminster, MD",Male 55-58,9
+216,Jonathan Kuruc Jr,771,01:01:16,09:52:00,"Glen Burnie, MD",Male 23-26,13
+217,Cynthia Evans,130,01:01:21,09:53:00,US,Female 63-66,1
+218,Michael Smith,891,01:01:27,09:54:00,"Westminster, MD",Male 23-26,14
+219,Julia Wilkens,988,01:01:31,09:54:00,US,Male 18 and under,16
+220,Christina Leonard,785,01:01:31,09:54:00,"Dundalk, MD",Female 35-38,8
+221,Lillienne Kane,744,01:01:33,09:55:00,"Baltimore, MD",Female 27-30,9
+222,Louis Caplan,462,01:01:33,09:55:00,"Pikesville, MD",Male 47-50,13
+223,TJ McLaughlin,808,01:01:52,09:58:00,"Halethorpe, MD",Male 47-50,14
+224,Maria Sheilds,175,01:01:52,09:58:00,US,Female 67-70,1
+225,Connie Colclough,491,01:02:00,09:59:00,"Columbia, MD",Female 55-58,4
+226,Paula Kuruc,770,01:02:05,10:00:00,"Pasadena, MD",Female 55-58,5
+227,Kara Reese,852,01:02:11,10:01:00,"Pasadena, MD",Female 39-42,8
+228,Georgina Woiak,931,01:02:20,10:02:00,"Baltimore, MD",Female 43-46,8
+229,Eric Baker,942,01:02:37,10:05:00,"Columbia, MD",Male 55-58,10
+230,Justin Fabrizio,583,01:02:48,10:07:00,"Baltimore, MD",Male 35-38,17
+231,Tony Krueger,966,01:02:57,10:08:00,"Halethorpe, MD",Male 55-58,11
+232,Maxwell Brooks,303,01:03:02,10:09:00,"Reisterstown, MD",Male 63-66,3
+233,Daniel Hewins,731,01:03:05,10:10:00,"Catonsville, MD",Male 63-66,4
+234,Erik Shumaker,881,01:03:07,10:10:00,"Catonsville, MD",Male 43-46,12
+235,John Powell,836,01:03:15,10:11:00,"Columbia, MD",Male 67-70,3
+236,Jean Smink,885,01:03:18,10:12:00,"Westminster, MD",Female 59-62,3
+237,Rebecca Postowski,835,01:03:22,10:12:00,"Halethorpe, MD",Female 23-26,5
+238,Craig Chilcott,484,01:03:31,10:14:00,"Halethorpe, MD",Male 31-34,15
+239,Renata Sanders,978,01:03:35,10:14:00,"Ellicott City, MD",Female 43-46,9
+240,Kevin Sturm,904,01:03:43,10:16:00,"Hyattsville, MD",Male 35-38,18
+241,Daniel Coolahan,493,01:03:49,10:17:00,"Halethorpe, MD",Male 47-50,15
+242,Laura Goodman,680,01:03:55,10:18:00,"Elkridge, MD",Female 35-38,9
+243,Nick Kelly,750,01:03:55,10:18:00,"Elkridge, MD",Male 39-42,21
+244,Praveen Lakshman,190,01:03:58,10:18:00,US,Male 43-46,13
+245,Amanda Seidl,870,01:04:00,10:18:00,"Ellicott City, MD",Female 19-22,5
+246,Kurt Roper,82,01:04:12,10:20:00,US,Male 35-38,19
+247,Amanda Kelly,748,01:04:14,10:21:00,"Catonsville, MD",Female 35-38,10
+248,Jennifer Guyer,696,01:04:17,10:21:00,"Sykesville, MD",Female 43-46,10
+249,Jessica Ader,108,01:04:17,10:21:00,"Baltimore, MD",Female 35-38,11
+250,Jacqueline Abendschoen-Milani,944,01:04:19,10:22:00,"Glenwood, MD",Female 51-54,9
+251,Ron Kwasnieski,13,01:04:21,10:22:00,US,Male 43-46,14
+252,Brian Schwartz,869,01:04:29,10:23:00,"Catonsville, MD",Male 35-38,20
+253,Jessica Skoglin,76,01:04:34,10:24:00,US,Female 18 and under,4
+254,Emily Kuchinsky,768,01:04:35,10:24:00,"Halethorpe, MD",Female 43-46,11
+255,Katie Dixon,555,01:04:41,10:25:00,"Columbia, MD",Female 35-38,12
+256,Kerry Thorn,177,01:04:41,10:25:00,US,Male 43-46,15
+257,Casey Taylor,907,01:04:48,10:26:00,"Halethorpe, MD",Female 35-38,13
+258,Tristan Coolahan,495,01:04:50,10:26:00,"Halethorpe, MD",Male 18 and under,17
+259,Jason Carpenter,481,01:04:50,10:26:00,"Catonsville, MD",Male 39-42,22
+260,Shana Sterkin,24,01:04:51,10:27:00,US,Female 39-42,9
+261,David Ehrhart,568,01:04:52,10:27:00,"Parkville, MD",Male 51-54,7
+262,Paul Pundt,843,01:05:00,10:28:00,"Severn, MD",Male 35-38,21
+263,Lisa Lowe,124,01:05:04,10:29:00,US,Female 59-62,4
+264,Ray Moody,816,01:05:09,10:30:00,"Riva, MD",Male 63-66,5
+265,Kathryn Baker,137,01:05:14,10:30:00,"Columbia, MD",Female 55-58,6
+266,Joseph Jauqet,168,01:05:22,10:32:00,US,Male 39-42,23
+267,Keith Thomas,7,01:05:31,10:33:00,US,Male 43-46,16
+268,Jacob Roos,860,01:05:36,10:34:00,"Catonsville, MD",Male 23-26,15
+269,John Meyers,810,01:05:49,10:36:00,"Pasadena, MD",Male 51-54,8
+270,Colleen Berlin,193,01:06:05,10:38:00,"Baltimore, MD",Female 27-30,10
+271,Karen Whittington,927,01:06:13,10:40:00,"Baltimore, MD",Female 67-70,2
+272,Alice Nickel,823,01:06:15,10:40:00,"Glen Burnie, MD",Female 35-38,14
+273,Sophia Jauqet,166,01:06:17,10:41:00,US,Female 18 and under,5
+274,Lisa Zamostny,946,01:06:24,10:42:00,"Pasadena, MD",Female 51-54,10
+275,Lindsey Lowe,793,01:06:35,10:43:00,"Columbia, MD",Female 23-26,6
+276,Greta Thomas,908,01:06:39,10:44:00,"Parkville, MD",Female 39-42,10
+277,JoAnna Vickers,915,01:06:41,10:44:00,"Manchester, MD",Female 43-46,12
+278,Joanne Lee,783,01:06:44,10:45:00,"Columbia, MD",Female 43-46,13
+279,Jack Saffran,46,01:06:47,10:45:00,"Maryland, US",Male 35-38,22
+280,Mike McCollum,803,01:06:54,10:46:00,"Catonsville, MD",Male 43-46,17
+281,Jack Chadwich,114,01:07:29,10:52:00,US,Male 43-46,18
+282,Nicholas Andrejow,948,01:07:33,10:53:00,"Baltimore, MD",Male 27-30,15
+283,Michael Skoglin,999,01:07:36,10:53:00,US,Male 55-58,12
+284,Chris Guyer,695,01:07:43,10:54:00,"Sykesville, MD",Male 43-46,19
+285,Mark Presslein,838,01:07:48,10:55:00,"Catonsville, MD",Male 51-54,9
+286,Andrea Ohara,826,01:08:00,10:57:00,"Ellicott City, MD",Female 35-38,15
+287,Tim Oates,40,01:08:01,10:57:00,US,Male 51-54,10
+288,Avis Stettinius,900,01:08:05,10:58:00,"Parkton, MD",Female 59-62,5
+289,Matt Kaplan,745,01:08:07,10:58:00,"Bowie, MD",Male 47-50,16
+290,Andrew Clements,951,01:08:09,10:58:00,"Arnold, MD",Male 51-54,11
+291,DARRYL STINNETT,902,01:08:17,11:00:00,"Mount Airy, MD",Male 59-62,9
+292,Claire Colclough,45,01:08:22,11:01:00,US,Female 31-34,10
+293,Kathy Jimenez,740,01:08:24,11:01:00,"Ellicott City, MD",Female 51-54,11
+294,Karrie Kane,965,01:08:25,11:01:00,"Mechanicsburg, PA",Female 55-58,7
+295,Keith Boeckmann,199,01:08:30,11:02:00,"Westminster, MD",Male 51-54,12
+296,Matthew Christoph,485,01:08:46,11:04:00,"Reisterstown, MD",Male 43-46,20
+297,Tim Usher,913,01:08:54,11:06:00,"Catonsville, MD",Male 23-26,16
+298,Lisa Winebrenner,936,01:08:54,11:06:00,"Catonsville, MD",Female 55-58,8
+299,Timothy Lee,784,01:08:54,11:06:00,"Catonsville, MD",Male 39-42,24
+300,Lucas Redman,850,01:08:59,11:06:00,"Catonsville, MD",Male 23-26,17
+301,Monica Davis,162,01:09:05,11:08:00,US,Female 35-38,16
+302,Scott Roper,81,01:09:07,11:08:00,US,Male 63-66,6
+303,Dawn Carroll,998,01:09:07,11:08:00,US,Female 47-50,8
+304,Colleen McGuinn,123,01:09:08,11:08:00,US,Female 43-46,14
+305,Jeanette Nazarian,30,01:09:18,11:10:00,US,Female 51-54,12
+306,Lisa Berlin,194,01:09:29,11:11:00,"Baltimore, MD",Female 51-54,13
+307,Dan Piel,832,01:09:49,11:15:00,"Catonsville, MD",Male 51-54,13
+308,Virginia Lowe,794,01:09:54,11:15:00,"Columbia, MD",Female 59-62,6
+309,Frank Gray,21,01:09:55,11:16:00,US,Male 43-46,21
+310,Aaron Cooper,990,01:10:00,11:16:00,US,Male 19-22,5
+311,Martin Romanik,153,01:10:09,11:18:00,US,Male 59-62,10
+312,Pat McKeldin,15,01:10:33,11:22:00,US,Female 51-54,14
+313,ANNIE TAFOLLA,906,01:10:40,11:23:00,"Fort George G Meade, MD",Female 35-38,17
+314,Peter Seidl,873,01:10:48,11:24:00,"Ellicott City, MD",Male 59-62,11
+315,Christopher Riker,858,01:10:51,11:25:00,"Baltimore, MD",Male 35-38,23
+316,Chuck Francis,659,01:10:52,11:25:00,"Baltimore, MD",Male 43-46,22
+317,Grace Davis,529,01:10:52,11:25:00,"Catonsville, MD",Female 23-26,7
+318,Scott McKelvey,806,01:10:54,11:25:00,"Halethorpe, MD",Male 27-30,16
+319,Roxanne Kircher,761,01:11:04,11:27:00,"New Market, MD",Female 43-46,15
+320,Gregory Seidl,872,01:11:07,11:27:00,"Lutherville Timonium, MD",Male 55-58,13
+321,Ken Tabler,905,01:11:16,11:29:00,"Upperco, MD",Male 59-62,12
+322,William Jauquet,739,01:11:17,11:29:00,"Gaithersburg, MD",Male 18 and under,18
+323,Daniel Shaul,877,01:11:55,11:35:00,"Reisterstown, MD",Male 27-30,17
+324,Vanessa Bennett,186,01:12:05,11:36:00,"Baltimore, MD",Female 39-42,11
+325,Katherine Bloom,185,01:12:06,11:37:00,US,Female 51-54,15
+326,David Goucher,173,01:12:10,11:37:00,US,Male 63-66,7
+327,Shannon Heine,718,01:12:12,11:38:00,"Ellicott City, MD",Female 35-38,18
+328,Payton Johnson,17,01:12:21,11:39:00,US,Male 18 and under,19
+329,Ava Sammons,18,01:12:22,11:39:00,US,Female 18 and under,6
+330,Eduardo Quelhas,844,01:12:24,11:39:00,"Catonsville, MD",Male 23-26,18
+331,Vernon Wilkens,987,01:12:30,11:40:00,US,Male 43-46,23
+332,Michael McKenna,807,01:12:44,11:43:00,"Elkridge, MD",Male 51-54,14
+333,Paige Olson,937,01:12:48,11:43:00,"Ellicott City, MD",Female 23-26,8
+334,Jonathan Kuruc,769,01:12:53,11:44:00,"Pasadena, MD",Male 59-62,13
+335,Gretchen Gray,692,01:12:54,11:44:00,"Glendale, CA",Female 31-34,11
+336,Michael Pakblyzniuk,171,01:12:59,11:45:00,US,Male 27-30,18
+337,Beth Kistler,762,01:13:00,11:45:00,"Finksburg, MD",Female 31-34,12
+338,Pam Johnson,741,01:13:08,11:47:00,"Columbia, MD",Female 55-58,9
+339,Todd Johnson,742,01:13:09,11:47:00,"Columbia, MD",Male 51-54,15
+340,Meghan Milani,945,01:13:15,11:48:00,"Glenwood, MD",Female 23-26,9
+341,Meghan McCorkell,804,01:13:33,11:51:00,"Baltimore, MD",Female 39-42,12
+342,Dylan Steele,896,01:13:41,11:52:00,"Halethorpe, MD",Male 43-46,24
+343,Farah Farahati,182,01:13:46,11:53:00,US,Female 55-58,10
+344,Erin Presslein,837,01:13:47,11:53:00,"Catonsville, MD",Female 51-54,16
+345,Martin Scheuer,866,01:14:14,11:57:00,"Owings Mills, MD",Male 55-58,14
+346,Michelle Macurak,795,01:14:31,12:00:00,"Halethorpe, MD",Female 43-46,16
+347,Sheryl Clements,952,01:14:39,12:01:00,"Arnold, MD",Female 47-50,9
+348,Adam Ciepiela,486,01:14:49,12:03:00,"Catonsville, MD",Male 23-26,19
+349,Andrea Seurkamp,875,01:14:52,12:03:00,"Halethorpe, MD",Female 47-50,10
+350,Tara Ruocco,977,01:14:54,12:04:00,"Laurel, MD",Female 47-50,11
+351,John Antonucci,170,01:15:14,12:07:00,US,Male 51-54,16
+352,Bibiane Kanzler,5,01:15:18,12:07:00,US,Female 35-38,19
+353,Megan Collins,155,01:15:43,12:12:00,US,Female 43-46,17
+354,Allyn Finegold,606,01:15:50,12:13:00,"Washington, DC",Female 51-54,17
+355,Terrence Ridley,857,01:15:50,12:13:00,US,Male 18 and under,20
+356,Leah Burchman,332,01:15:51,12:13:00,"Baltimore, MD",Female 31-34,13
+357,Greg Blatt,197,01:15:51,12:13:00,"Baltimore, MD",Male 35-38,24
+358,Scott Moffet,815,01:15:51,12:13:00,US,Male 51-54,17
+359,Jenna Bohrer,950,01:15:51,12:13:00,"Baltimore, MD",Female 31-34,14
+360,Jennifer Laycock,781,01:15:51,12:13:00,US,Female 35-38,20
+361,Sharon Graham,690,01:15:53,12:13:00,"Mount Airy, MD",Female 47-50,12
+362,Bruce Randle,847,01:16:10,12:16:00,"Catonsville, MD",Male 67-70,4
+363,Aimee Goldman,673,01:16:16,12:17:00,"Columbia, MD",Female 43-46,18
+364,Kaitlin Dorsey,154,01:16:21,12:18:00,US,Female 23-26,10
+365,Sydney Byrd,79,01:16:25,12:18:00,US,Female 18 and under,7
+366,Lynda Allera,122,01:16:25,12:18:00,"Columbia, MD",Female 55-58,11
+367,Jessica Byrd,78,01:16:45,12:22:00,US,Female 35-38,21
+368,Edward Brewer,217,01:17:01,12:24:00,"Halethorpe, MD",Male 59-62,14
+369,Sally Reed,851,01:17:10,12:26:00,"Baltimore, MD",Female 43-46,19
+370,Wendy Young,939,01:17:11,12:26:00,"Greenbelt, MD",Female 39-42,13
+371,Trevor Rose,861,01:17:11,12:26:00,"Clarksville, MD",Male 47-50,17
+371,Teresa Meskey,809,01:17:11,12:26:00,US,Female 31-34,15
+373,Aaron Velky,914,01:17:11,12:26:00,"Beltsville, MD",Male 31-34,16
+373,Sean Miller,813,01:17:11,12:26:00,"Ellicott City, MD",Male 18 and under,21
+375,Bromley Lowe,792,01:17:11,12:26:00,US,Male 47-50,18
+376,David Price,839,01:17:11,12:26:00,US,Male 27-30,19
+377,Doug Holsey,733,01:17:38,12:30:00,"Mount Airy, MD",Male 39-42,25
+378,Loretta Farb,586,01:17:39,12:30:00,"Ellicott City, MD",Female 55-58,12
+379,Kristen Hickman,991,01:17:59,12:34:00,US,Female 35-38,22
+380,Kari Leaver,782,01:17:59,12:34:00,"Aspers, PA",Female 35-38,23
+381,Kristen Mahoney,797,01:18:09,12:35:00,"Ellicott City, MD",Female 51-54,18
+382,Larry Puglisi,842,01:18:24,12:38:00,"Odenton, MD",Male 63-66,8
+383,John Ratliff,848,01:18:27,12:38:00,"Elkridge, MD",Male 43-46,25
+384,Stan Levi,787,01:18:31,12:39:00,"Columbia, MD",Male 71+,2
+385,Mike Regnell,853,01:18:37,12:39:00,"Gaithersburg, MD",Male 47-50,19
+386,Sue Murphy,819,01:18:59,12:43:00,"Towson, MD",Female 47-50,13
+387,Tyler Carlisle,480,01:19:01,12:43:00,"Glen Arm, MD",Male 18 and under,22
+388,Nathaniel Carlisle,463,01:19:03,12:44:00,"Glen Arm, MD",Male 43-46,26
+389,Alexis Patterson,97,01:19:07,12:44:00,US,Female 19-22,6
+390,Deirdre Campbell,407,01:19:34,12:49:00,"Curtis Bay, MD",Female 43-46,20
+391,JOSEPH HAMILTON,699,01:19:35,12:49:00,"Westminster, MD",Male 35-38,25
+392,Kathleen Miller,812,01:19:41,12:50:00,"Ellicott City, MD",Female 51-54,19
+393,Jennifer Roussillon,863,01:19:42,12:50:00,US,Female 43-46,21
+394,Nicole Whiston,925,01:19:42,12:50:00,US,Female 23-26,11
+395,Laura Hartman,704,01:19:43,12:50:00,US,Female 35-38,24
+396,jennifer stelmach,934,01:19:43,12:50:00,"Annapolis, MD",Female 47-50,14
+397,Michael Kurek,144,01:19:44,12:50:00,US,Male 18 and under,23
+398,Erik Olson,827,01:19:44,12:50:00,"Sykesville, MD",Male 51-54,18
+399,Corey Ward,917,01:19:45,12:51:00,US,Female 27-30,11
+400,Christine Wobbeking,929,01:20:19,12:56:00,"Baltimore, MD",Female 47-50,15
+401,Thomas Green,693,01:20:42,13:00:00,"Columbia, MD",Male 67-70,5
+402,Kathryn Bayer,160,01:20:43,13:00:00,"Halethorpe, MD",Female 47-50,16
+403,Gemma Bridges Lyman,260,01:21:12,13:05:00,"Catonsville, MD",Female 35-38,25
+404,Diane Shaw,878,01:21:12,13:05:00,"Catonsville, MD",Female 43-46,22
+405,Jessica Grillo,694,01:21:32,13:08:00,"Crofton, MD",Female 31-34,16
+406,"George Snow, Jr",893,01:23:19,13:25:00,"Halethorpe, MD",Male 59-62,15
+407,Izya Spekterman,36,01:23:19,13:25:00,US,Male 59-62,16
+408,Jennifer Zwarich,86,01:23:43,13:29:00,"Maryland, US",Female 35-38,26
+409,Jennifer Zwarich,85,01:23:44,13:29:00,US,Female 39-42,14
+410,Kathryn Cvengros,84,01:23:44,13:29:00,US,Female 35-38,27
+411,Avital Shaul,876,01:23:45,13:29:00,"Baltimore, MD",Female 31-34,17
+412,Chet Coates,487,01:24:15,13:34:00,"Silver Spring, MD",Male 71+,3
+413,Robert Wobbeking,930,01:24:43,13:39:00,"Baltimore, MD",Male 67-70,6
+414,John Wheatland,924,01:24:55,13:40:00,"Columbia, MD",Male 67-70,7
+415,Reggie Haseltine,705,01:25:07,13:42:00,"Crofton, MD",Male 67-70,8
+416,Nancy Berger,165,01:25:14,13:43:00,US,Female 71+,1
+417,Barry Goldmeier,958,01:25:21,13:45:00,"Rockville, MD",Male 51-54,19
+418,Laura Pitts,833,01:25:26,13:45:00,"Baltimore, MD",Female 71+,2
+419,Glenn Smink,172,01:26:15,13:53:00,US,Male 67-70,9
+420,Fran Daum,500,01:26:49,13:59:00,"Elkridge, MD",Female 71+,3
+421,Joe Howell,180,01:26:53,13:59:00,US,Male 67-70,10
+422,Chris Patterson,113,01:27:18,14:03:00,US,Male 39-42,26
+423,Kathy Norton,824,01:28:15,14:13:00,"Columbia, MD",Female 59-62,7
+424,Susan Perdue,829,01:28:15,14:13:00,"Clarksville, MD",Female 55-58,13
+425,Kathleen McMackin,152,01:29:16,14:22:00,US,Female 63-66,2
+426,Normailed Heitjan,727,01:29:20,14:23:00,"Columbia, MD",Female 35-38,28
+427,Nick Heitjan,724,01:29:22,14:23:00,"Columbia, MD",Male 35-38,26
+428,Kathy Hennes,128,01:29:50,14:28:00,US,Female 67-70,3
+429,Peyton Grogg,90,01:31:29,14:44:00,US,Male 18 and under,24
+430,Tyler Musto,91,01:31:30,14:44:00,US,Male 18 and under,25
+431,Eden Robinson,89,01:31:31,14:44:00,US,Female 18 and under,8
+432,Becky Musto,95,01:31:34,14:45:00,US,Female 39-42,15
+433,Jossie Sapunar,44,01:31:45,14:46:00,US,Female 27-30,12
+434,Jessica Shelton,880,01:31:59,14:49:00,"Halethorpe, MD",Female 39-42,16
+435,Owen Perez,27,01:32:45,14:56:00,US,Male 18 and under,26
+436,Nicole Perez,26,01:32:47,14:56:00,US,Female 39-42,17
+437,Katherine Kurek,143,01:35:09,15:19:00,US,Female 18 and under,9
+438,Megan Kehrman,747,01:35:10,15:19:00,"Catonsville, MD",Female 18 and under,10
+439,Algeron Moore,141,01:35:41,15:24:00,US,Male 71+,4
+440,Heather Eshleman,570,01:35:51,15:26:00,"Catonsville, MD",Female 47-50,17
+441,Jack Kavanagh,41,01:37:50,15:45:00,US,Male 63-66,9
+442,Tyler Stump,164,01:39:27,16:01:00,US,Male 27-30,20
+443,Heather Jauquet,738,01:39:29,16:01:00,"Gaithersburg, MD",Female 39-42,18
+444,Kathleen Hanson,700,01:40:35,16:12:00,"Annapolis, MD",Female 63-66,3
+445,Esther Hefter,961,01:40:52,16:14:00,"Pikesville, MD",Female 27-30,13
+446,Alan Wycherly,933,01:41:45,16:23:00,"Annapolis, MD",Male 71+,5
+447,Richard Krummerich,767,01:43:47,16:43:00,"Baltimore, MD",Male 63-66,10
+448,Patty Nagel,820,01:44:34,16:50:00,"Halethorpe, MD",Female 47-50,18
+449,David Kalb,743,01:45:09,16:56:00,"Catonsville, MD",Male 59-62,17
+450,Melissa Miller,16,01:45:11,16:56:00,US,Female 39-42,19
+451,Lindsay Johnson,20,01:45:12,16:56:00,US,Female 35-38,29
+452,Matthew Shumaker,882,01:45:15,16:57:00,"Catonsville, MD",Male 18 and under,27
+453,Jeanie Perkins,188,01:51:21,17:56:00,US,Female 59-62,8
+454,Bill Coolahan,187,01:51:23,17:56:00,US,Male 59-62,18
+455,Valerie Stocksdale,992,01:51:25,17:56:00,US,Female 63-66,4
